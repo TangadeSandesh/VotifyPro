@@ -1,8 +1,6 @@
 I.FLOWCHART AND SYSTEM ARCHITECTURE
- Fig.1 Flow Diagram For Admin
-![image](https://github.com/TangadeSandesh/OnlineVotingSystem/assets/129480090/18998534-ac7c-4dc2-b0f8-3eed194eb45e)
-Fig.2 Flow Diagram For Voter
-![image](https://github.com/TangadeSandesh/OnlineVotingSystem/assets/129480090/89c18120-b631-41f9-b790-20a4f515ba09)
+ Fig.1 Flow Diagram For Admin![image](https://github.com/TangadeSandesh/OnlineVotingSystem/assets/129480090/18998534-ac7c-4dc2-b0f8-3eed194eb45e)
+Fig.2 Flow Diagram For Voter![image](https://github.com/TangadeSandesh/OnlineVotingSystem/assets/129480090/89c18120-b631-41f9-b790-20a4f515ba09)
 
 II.METHODOLOGY AND EXPERIMENTATION 
 In the developed System their different frames which have their own specific significance and working and methodology of system follows the below.
